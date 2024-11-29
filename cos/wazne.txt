@@ -1,0 +1,3 @@
+klucz pocztkowy = c8d65e0169d23dbd246df4052c000000
+
+klucz deszyfrujacy = c8d65e0169d23dbd246df4052c243cbe
